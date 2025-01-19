@@ -1,5 +1,9 @@
 class calculator
 {
+public int add(String args[])
+{
+return a+b;
+}
 public static void main(String args[])
 {
 }
