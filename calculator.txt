@@ -8,6 +8,10 @@ public int sub(String args[])
 {
 return a-b;
 }
+public int mul(String args[])
+{
+return a*b;
+}
 public static void main(String args[])
 {
 }
